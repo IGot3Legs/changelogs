@@ -26,25 +26,6 @@
       }
     }
   ],
-  "components": [
-    {
-      "id": 248706273,
-      "type": 1,
-      "components": [
-        {
-          "id": 515596365,
-          "type": 2,
-          "style": 5,
-          "label": "Join our Official Server",
-          "action_set_id": "640779311",
-          "url": "https://discord.gg/pYA5gPpSYf"
-        }
-      ]
-    }
-  ],
-  "actions": {
-    "640779311": {
-      "actions": []
-    }
-  }
+  "components": [],
+  "actions": {}
 }
