@@ -1,0 +1,31 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 304728522,
+      "description": "These are the latest changelogs from <t:1694452500:R>\n",
+      "fields": [],
+      "title": "Changelogs",
+      "color": 4521728,
+      "footer": {
+        "icon_url": "https://cdn.discordapp.com/icons/1137741717618044979/29c5be4083a99843f8bd671dafaed72b.webp?size=2048",
+        "text": "StarWarsDex Official"
+      }
+    },
+    {
+      "id": 513488367,
+      "description": "Boba Fett is an Iconic Star Wars bounty hunter in Mandalorian armor, known for silent demeanor, deadly skills, and enigmatic mystique.",
+      "fields": [],
+      "author": {
+        "name": "New Card!"
+      },
+      "title": "Boba Fett",
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1140292144125456385/1150862768967274517/nt_LoKSGMoHbisFmzp.jpg"
+      }
+    }
+  ],
+  "components": [],
+  "actions": {}
+}
