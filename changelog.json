@@ -8,7 +8,7 @@
       "fields": [
         {
           "id": 112426186,
-          "name": "Test changeloggggggg",
+          "name": "Test changelog1",
           "value": "Test",
           "inline": false
         },
@@ -31,6 +31,25 @@
       }
     }
   ],
-  "components": [],
-  "actions": {}
+  "components": [
+    {
+      "id": 897316859,
+      "type": 1,
+      "components": [
+        {
+          "id": 977553831,
+          "type": 2,
+          "style": 5,
+          "label": "Test",
+          "action_set_id": "759407879",
+          "url": "https://raw.githubusercontent.com/IGot3Legs/changelogs/main/changelog.json"
+        }
+      ]
+    }
+  ],
+  "actions": {
+    "759407879": {
+      "actions": []
+    }
+  }
 }
