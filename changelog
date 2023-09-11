@@ -1,0 +1,50 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 304728522,
+      "description": "These are the latest changelogs from <t:1694452500:R>\n",
+      "fields": [
+        {
+          "id": 112426186,
+          "name": "Test changelog1",
+          "value": "Test",
+          "inline": false
+        },
+        {
+          "id": 196899806,
+          "name": "Test Changelog3",
+          "value": "Test"
+        }
+      ],
+      "title": "Changelogs",
+      "color": 4521728,
+      "footer": {
+        "icon_url": "https://cdn.discordapp.com/icons/1137741717618044979/29c5be4083a99843f8bd671dafaed72b.webp?size=2048",
+        "text": "StarWarsDex Official"
+      }
+    }
+  ],
+  "components": [
+    {
+      "id": 248706273,
+      "type": 1,
+      "components": [
+        {
+          "id": 515596365,
+          "type": 2,
+          "style": 5,
+          "label": "Join our Official Server",
+          "action_set_id": "640779311",
+          "url": "https://discord.gg/pYA5gPpSYf"
+        }
+      ]
+    }
+  ],
+  "actions": {
+    "640779311": {
+      "actions": []
+    }
+  }
+}
