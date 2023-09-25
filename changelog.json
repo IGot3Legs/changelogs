@@ -4,52 +4,30 @@
   "embeds": [
     {
       "id": 304728522,
-      "description": "These are the latest changelogs from <t:1694452500:R>\n",
-      "fields": [
-        {
-          "id": 112426186,
-          "name": "Test changelog1",
-          "value": "Test",
-          "inline": false
-        },
-        {
-          "id": 196899806,
-          "name": "Test test",
-          "value": "Test"
-        },
-        {
-          "id": 727392659,
-          "name": "test5655",
-          "value": "Test"
-        }
-      ],
-      "title": "Changelogs",
+      "title": "New Cards",
+      "description": "We are thrilled to announce the arrival of two formidable characters to our galaxy far, far away: **Pre Vizla** and **Captain Phasma**! Get ready to bolster your decks with their power and cunning.",
       "color": 4521728,
       "footer": {
-        "icon_url": "https://cdn.discordapp.com/icons/1137741717618044979/29c5be4083a99843f8bd671dafaed72b.webp?size=2048",
-        "text": "StarWarsDex Official"
+        "text": "StarWarsDex Official",
+        "icon_url": "https://cdn.discordapp.com/icons/1137741717618044979/29c5be4083a99843f8bd671dafaed72b.webp?size=2048"
+      },
+      "fields": [
+        {
+          "id": 980013961,
+          "name": "<:VIzla:1155895818038026302> Pre Vizla",
+          "value": "Fearsome leader of the Mandalorian Death Watch, Pre Vizla brings unmatched combat skills and unwavering determination to your battles. Will you wield the Darksaber and claim victory in his name? Or will you face it in combat and prove your strength? The choice is yours!"
+        },
+        {
+          "id": 286197616,
+          "name": "<:Phasma:1155900094852386977> Captain Phasma",
+          "value": "Commander of the First Order's stormtroopers, Captain Phasma is a symbol of unwavering loyalty and discipline. Her blaster is always at the ready, and her tactics are as cold and calculating as the icy planet Starkiller Base. Will you enlist her to lead your forces to victory, or will you challenge her and test your mettle? The decision is yours!"
+        }
+      ],
+      "author": {
+        "name": "Changelogs"
       }
     }
   ],
-  "components": [
-    {
-      "id": 897316859,
-      "type": 1,
-      "components": [
-        {
-          "id": 977553831,
-          "type": 2,
-          "style": 5,
-          "label": "Test",
-          "action_set_id": "759407879",
-          "url": "https://raw.githubusercontent.com/IGot3Legs/changelogs/main/changelog.json"
-        }
-      ]
-    }
-  ],
-  "actions": {
-    "759407879": {
-      "actions": []
-    }
-  }
+  "components": [],
+  "actions": {}
 }
