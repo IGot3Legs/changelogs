@@ -5,7 +5,7 @@
     {
       "id": 304728522,
       "title": "New Cards",
-      "description": "We're thrilled to unveil the latest addition to our ever-expanding galaxy of cards: **Grand Moff Tarkin**! With his strategic brilliance and ruthless determination, Tarkin is here to leave his mark on the battlefield.",
+      "description": "Prepare to expand your deck and engage in thrilling battles, as we introduce the latest star to join our galaxy:**Director Krennic**! With his ambition and cunning, Krennic is here to lead your forces to victory.",
       "color": 4521728,
       "footer": {
         "text": "StarWarsDex Official",
@@ -17,8 +17,8 @@
       "fields": [
         {
           "id": 980013961,
-          "name": "<:tarki:1161753835962904597> Grand Moff Tarkin",
-          "value": "As the head of the Galactic Empire's military, Grand Moff Tarkin is a master tactician and a fearsome commander. His presence on the battlefield can turn the tide of any battle, but it also sends a chilling message to those who oppose the Empire. Will you use his cunning to dominate your foes, or will you challenge his authority and attempt to outwit him? The choice is yours!",
+          "name": "<:Krennic:1162771579852304394> Director Krennic",
+          "value": "Director Orson Krennic is the mastermind behind the construction of the Death Star, and he's not to be underestimated. His strategic genius and drive to achieve his goals make him a formidable adversary and a powerful ally. Will you harness the power of the Death Star under his command, or will you challenge his ambitions with your own? The choice is yours!",
           "inline": false
         }
       ],
